@@ -1,5 +1,5 @@
 I'm learning how to use Git!
 Yay
 
-Writing comments is important
+Writing explicit commit message is important
 Ok
