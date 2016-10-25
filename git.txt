@@ -2,4 +2,4 @@ I'm learning how to use Git!
 Yay
 
 Writing explicit commit message is important
-Ok
+
