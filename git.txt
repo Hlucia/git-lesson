@@ -1,2 +1,5 @@
 I'm learning how to use Git!
 Yay
+
+Writing comments is important
+Ok
